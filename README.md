@@ -96,3 +96,11 @@ Falscher Ordner gewählt	/docs statt /root	In Pages‑Einstellungen korrigieren
 # Weitere .md Datei Einbinden:
 => in index.md weitere .md Seite eingebunden: 
 [Zur zweiten Seite](zweite-seite.md)
+
+📁 3. Falls die Datei in einem Unterordner liegt
+Beispiel: Datei liegt in /kapitel/seite1.md
+
+Dann verlinkst du so:
+
+markdown
+[Kapitel 1](kapitel/seite1.md)

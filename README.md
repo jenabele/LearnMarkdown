@@ -116,7 +116,7 @@ Code
 https://jenabele.github.io/LearnMarkdown/zweite-seite/
 GitHub Pages wandelt .md automatisch in „saubere“ URLs um.
 
-**HTML escapen (wenn du HTML nur zeigen willst)
+# **HTML escapen (wenn du HTML nur zeigen willst)
 Das ist perfekt für eine Referenz wie deine.
 
 Beispiel:

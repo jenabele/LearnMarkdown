@@ -91,3 +91,8 @@ Seite bleibt leer	Datei nicht committed	Commit durchführen
 CSS wird nicht geladen	Falscher Pfad	css/style.css prüfen
 GitHub Pages lässt sich nicht aktivieren	Repo war privat	Repo auf public stellen
 Falscher Ordner gewählt	/docs statt /root	In Pages‑Einstellungen korrigieren
+
+
+# Weitere .md Datei Einbinden:
+=> in index.md weitere .md Seite eingebunden: 
+[Zur zweiten Seite](zweite-seite.md)

@@ -115,3 +115,11 @@ liegt, dann ist die zweite Seite erreichbar unter:
 Code
 https://jenabele.github.io/LearnMarkdown/zweite-seite/
 GitHub Pages wandelt .md automatisch in „saubere“ URLs um.
+
+**HTML escapen (wenn du HTML nur zeigen willst)
+Das ist perfekt für eine Referenz wie deine.
+
+Beispiel:
+
+Code
+&lt;h1&gt;Das ist eine Überschrift&lt;/h1&gt;**

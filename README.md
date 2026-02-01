@@ -104,3 +104,14 @@ Dann verlinkst du so:
 
 markdown
 [Kapitel 1](kapitel/seite1.md)
+
+🌐 4. URL‑Struktur auf GitHub Pages
+Wenn deine Seite unter:
+
+Code
+https://jenabele.github.io/LearnMarkdown/
+liegt, dann ist die zweite Seite erreichbar unter:
+
+Code
+https://jenabele.github.io/LearnMarkdown/zweite-seite/
+GitHub Pages wandelt .md automatisch in „saubere“ URLs um.

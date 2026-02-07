@@ -25,6 +25,11 @@
 [Detailseite1](/doku/README_Detailseiten%20(2).md)
 
 
+## Suchen innerhalb GitHub in Markdow Dateien mit der integrierten Code-Suche extension, oder path
+repo:jenabele/Favoriten grid extension:.md
+oder
+repo:jenabele/Favoriten grid path:*.md
+
 # Meine Dokumentation
 
 Hier ist eine Tabelle:

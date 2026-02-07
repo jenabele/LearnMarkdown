@@ -20,6 +20,10 @@
 
 [ReadMe Debug](/doku/README_Debug.md)
 
+### Leerzeichen im Dateipfad einer Markdown-Link-Ziel-Datei zu beheben, musst du das Leerzeichen im Link entweder URL-kodieren (%20) oder einen Bindestrich im Dateinamen
+[Detailseite1](/doku/doku/README_Detailseiten (2).md)
+[Detailseite1](/doku/README_Detailseiten%20(2).md)
+
 
 # Meine Dokumentation
 

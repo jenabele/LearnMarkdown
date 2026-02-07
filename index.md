@@ -2,10 +2,8 @@
 
 <link rel="stylesheet" href="css/style.css">
 
-## Index Erstellung nebeneinander
+# Index Erstellung nebeneinander
 [MarkDown_Readme](readme.md)[MarkDown_Readme](readme.md)[MarkDown_Readme](readme.md)
-
-
 
 ## Inhaltsverzeichnis untereinander.
 ### Um sicherzustellen, dass die Links tatsächlich untereinander erscheinen, gibt es zwei Möglichkeiten: Zwei Leerzeichen am Ende jeder Zeile oder eine leere Zeile dazwischen (neuer Absatz) einfügen: 
@@ -20,20 +18,18 @@
 
 [ReadMe Debug](/doku/README_Debug.md)
 
-### Leerzeichen im Dateipfad einer Markdown-Link-Ziel-Datei zu beheben, musst du das Leerzeichen im Link entweder URL-kodieren (%20) oder einen Bindestrich im Dateinamen
+# Leerzeichen im Dateipfad einer Markdown-Link-Ziel-Datei zu beheben, musst du das Leerzeichen im Link entweder URL-kodieren (%20) oder einen Bindestrich im Dateinamen
 [Detailseite1](/doku/doku/README_Detailseiten (2).md)  
 [Detailseite1](/doku/README_Detailseiten%20(2).md)
 
 
-## Suchen innerhalb GitHub in Markdow Dateien mit der integrierten Code-Suche extension, oder path
+# Suchen innerhalb GitHub in Markdow Dateien mit der integrierten Code-Suche extension, oder path
 **repo:jenabele/Favoriten grid extension:.md**  
 oder  
 **repo:jenabele/Favoriten grid path:*.md**  
 ### vermutlich kommt erst der Hinweis "This repository's code is being indexed right now" bedeutet, dass dein Repository gerade für die Suche vorbereitet wird. Warte ein paar Minuten und versuche es dann erneut
 
-# Meine Dokumentation
-
-Hier ist eine Tabelle:
+# Hier ist eine Tabelle:
 
 | Funktion     | HTML‑Code (exakt)        | Markdown‑Code |
 |--------------|---------------------------|----------------|

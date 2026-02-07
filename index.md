@@ -27,7 +27,7 @@
 
 ## Suchen innerhalb GitHub in Markdow Dateien mit der integrierten Code-Suche extension, oder path
 **repo:jenabele/Favoriten grid extension:.md**  
-oder
+oder  
 **repo:jenabele/Favoriten grid path:*.md**  
 ### vermutlich kommt erst der Hinweis "This repository's code is being indexed right now" bedeutet, dass dein Repository gerade für die Suche vorbereitet wird. Warte ein paar Minuten und versuche es dann erneut
 
